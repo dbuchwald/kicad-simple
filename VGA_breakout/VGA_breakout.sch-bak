@@ -170,4 +170,26 @@ NoConn ~ 7850 1500
 NoConn ~ 7850 1600
 NoConn ~ 7850 1800
 NoConn ~ 7850 1900
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5FBF846B
+P 8650 1550
+F 0 "H1" H 8750 1596 50  0000 L CNN
+F 1 "MountingHole" H 8750 1505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 8650 1550 50  0001 C CNN
+F 3 "~" H 8650 1550 50  0001 C CNN
+	1    8650 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5FBF8984
+P 8650 1850
+F 0 "H2" H 8750 1896 50  0000 L CNN
+F 1 "MountingHole" H 8750 1805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 8650 1850 50  0001 C CNN
+F 3 "~" H 8650 1850 50  0001 C CNN
+	1    8650 1850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

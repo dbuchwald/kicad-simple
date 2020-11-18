@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:DB15_Female_HighDensity_MountingHoles J2
+L Connector:DB15_Female_HighDensity_MountingHoles J1
 U 1 1 5FBDA24B
 P 9000 2950
-F 0 "J2" H 9000 3817 50  0000 C CNN
+F 0 "J1" H 9000 3817 50  0000 C CNN
 F 1 "VGA Port" H 9000 3726 50  0000 C CNN
 F 2 "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm" H 8050 3350 50  0001 C CNN
 F 3 " ~" H 8050 3350 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 " ~" H 8050 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x15 J1
+L Connector_Generic:Conn_01x15 J2
 U 1 1 5FBDD311
 P 7550 3050
-F 0 "J1" H 7468 3967 50  0000 C CNN
+F 0 "J2" H 7468 3967 50  0000 C CNN
 F 1 "Breadboard connector" H 7468 3876 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 7550 3050 50  0001 C CNN
 F 3 "~" H 7550 3050 50  0001 C CNN
