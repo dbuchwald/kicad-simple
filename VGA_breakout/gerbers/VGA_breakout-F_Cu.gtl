@@ -1,22 +1,37 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
-G04 #@! TF.CreationDate,2020-11-18T22:27:49+01:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6-0-10_14)*
+G04 #@! TF.CreationDate,2020-11-19T10:08:44+01:00*
 G04 #@! TF.ProjectId,VGA_breakout,5647415f-6272-4656-916b-6f75742e6b69,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2020-11-18 22:27:49*
+G04 Created by KiCad (PCBNEW (5.1.6-0-10_14)) date 2020-11-19 10:08:44*
 %MOMM*%
 %LPD*%
+G01*
 G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD10O,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD11R,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD12C,4.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD13C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
 %ADD14R,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
 %ADD15C,0.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,Conductor*
 %ADD16C,0.250000*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
 X138430000Y-71120000D03*
