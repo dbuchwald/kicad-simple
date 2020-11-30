@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:DB15_Female_HighDensity_MountingHoles J1
+L Connector:DB15_Female_HighDensity J1
 U 1 1 5FBDA24B
 P 9000 2950
 F 0 "J1" H 9000 3817 50  0000 C CNN
 F 1 "VGA Port" H 9000 3726 50  0000 C CNN
-F 2 "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm" H 8050 3350 50  0001 C CNN
+F 2 "VGA_breakout:ICD15S13E4GV00LF" H 8050 3350 50  0001 C CNN
 F 3 " ~" H 8050 3350 50  0001 C CNN
 	1    9000 2950
 	1    0    0    -1  
@@ -143,7 +143,6 @@ Wire Wire Line
 	9800 4150 9800 2550
 Wire Wire Line
 	9800 2550 9300 2550
-NoConn ~ 9000 3650
 $Comp
 L Connector_Generic:Conn_01x02 J3
 U 1 1 5FBF2A1E

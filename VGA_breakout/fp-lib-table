@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name VGA_breakout)(type KiCad)(uri ${KIPRJMOD}/VGA_breakout.pretty)(options "")(descr ""))
+)
