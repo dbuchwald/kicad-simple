@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 503182-1852)(type Legacy)(uri ${KIPRJMOD}/socket/503182-1852.mod)(options "")(descr ""))
+  (lib (name 47219-2001)(type Legacy)(uri ${KIPRJMOD}/socket2/47219-2001.mod)(options "")(descr ""))
+)
