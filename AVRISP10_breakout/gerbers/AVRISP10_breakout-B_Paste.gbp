@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6-0-10_14)*
-G04 #@! TF.CreationDate,2021-04-25T22:01:39+02:00*
-G04 #@! TF.ProjectId,VGA_breakout,5647415f-6272-4656-916b-6f75742e6b69,rev?*
+G04 #@! TF.CreationDate,2021-04-25T21:48:52+02:00*
+G04 #@! TF.ProjectId,AVRISP10_breakout,41565249-5350-4313-905f-627265616b6f,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.6-0-10_14)) date 2021-04-25 22:01:39*
+G04 Created by KiCad (PCBNEW (5.1.6-0-10_14)) date 2021-04-25 21:48:52*
 %MOMM*%
 %LPD*%
 G01*
